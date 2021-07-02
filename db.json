@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Joey Tribbiani",
+      "number": "067-153-12-11",
+      "id": "id-1"
+    },
+    {
+      "name": "Phoebe Buffay",
+      "number": "036-579-21-53",
+      "id": "id-2"
+    },
+    {
+      "name": " Rachel Green",
+      "number": "154-862-30-48",
+      "id": "id-3"
+    },
+    {
+      "name": "Ross Geller",
+      "number": "159-354-68-82",
+      "id": "id-4"
+    },
+    {
+      "name": "Chandler Bing",
+      "number": "123-566-45-96",
+      "id": "id-5"
+    },
+    {
+      "name": "Monica Geller",
+      "number": "189-416-12-45",
+      "id": "id-6"
+    }
+  ]
+}
